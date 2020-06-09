@@ -1,0 +1,14 @@
+Variables: 
+    algo que varia, como por ejemplo el tiempo horas, minutos.
+
+Strings:  
+    son contenedores, que almacenan letras, numeros y simbolos
+
+Funciones (argumentos, `return`):
+    son como maquinas que le ingresas algo y te devuelve otra cosa transformada con ese algo.
+    
+Declaraciones `if`:
+    en base a una variable como el clima, por ejemplo, tomo desiciones; si hace frio me pongo una campera.
+
+Valores booleanos (`true`, `false`):
+    como un interruptor, que tiene 2 valores; encendido y apagado, abierto y cerrado, arriba y abajo.
