@@ -1,0 +1,11 @@
+for:
+    se usa para repetir acciones una cantidad de veces
+
+&&:
+    compara dos valores, resulta verdadero si ambas son verdaderos
+
+||:
+    compara dos valores, devuelve verdadero si uno o ambas son verdaderas
+
+!:
+    invierte el valor de verdad de una variable
