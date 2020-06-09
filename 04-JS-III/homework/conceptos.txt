@@ -1,0 +1,2 @@
+array:
+    un conjunto de elementos del mismo tipo, por ejemplo lista de nombres en una agenda.
