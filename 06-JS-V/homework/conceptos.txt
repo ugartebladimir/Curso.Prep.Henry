@@ -1,0 +1,4 @@
+prototype:
+    permite manejar metodos heredados
+Constructors:
+    son como plantillas para crear objetos
